@@ -1,0 +1,22 @@
+.button{
+    
+    padding: 1rem 2.4rem;
+    border-radius:  8px;
+    background-color: $color-primary;
+    border: none;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.button-full {
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 1.6rem 3.2rem;
+    display: inline-block;
+}
+.button-white {
+    background-color: rgb(230, 203, 168);
+    color: black;
+    margin-left: 1.6rem;
+}

@@ -1,0 +1,29 @@
+.heading-primary{
+    @media (max-width: 84em){
+        font-size: 4.4rem;
+    }
+    font-size: 5.2rem;
+    line-height: 1.05;
+    margin-bottom: 3.2rem;
+    letter-spacing: -0.5px;
+}
+.heading-secondary {
+    @media (max-width: 75em){
+        font-size: 3.6rem;
+    }
+    
+    font-weight: 700;
+    font-size: 4.4rem;
+    line-height: 1.2;
+    margin-bottom: 9.6rem;
+    letter-spacing: -0.5px;
+}
+.heading-tertiary {
+    @media (max-width: 75em){
+        font-size: 2.4rem;
+    }
+
+    font-size: 3rem;
+    line-height: 1.2;
+    margin-bottom: 3.2rem;
+}
